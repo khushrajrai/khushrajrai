@@ -14,22 +14,51 @@
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-### 🧠 AI / ML
-- Python • NumPy • Pandas • Scikit-learn  
-- TensorFlow  • OpenCV • Data Preprocessing  
-- Streamlit • Jupyter Notebooks  
+### **💻 Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
 
-### 🌐 Full Stack Web Development  
-- HTML • CSS • JavaScript  
-- React.js • Tailwind CSS  
-- Node.js • Express.js
+### **🌐 AI/ML **
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,py" />
+</p>
 
-### 🗄️ Databases
-- MongoDB  
-- SQL  
+### **🌐 Full Stack Web Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite,expressjs,nodejs" />
+</p>
 
-### 🔧 Tools & Platforms
-- Git • GitHub • VS Code  
-- Kaggle • Postman  
+### **🗄️ Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### **🛠️ DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=,git,github,postman" />
+</p>
+
+### **🚀 Deployment**
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,render,netlify" />
+</p>
+
+### **🎨 UI/UX & Creative Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/khushrajrai"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:khushrajrai@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/khushrajrai"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
+
+--
