@@ -43,7 +43,7 @@
 
 ### **🚀 Deployment**
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,render,netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
 </p>
 
 ### **🎨 UI/UX & Creative Tools**
@@ -60,5 +60,3 @@
   <a href="mailto:khushrajrai@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://github.com/khushrajrai"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
-
---
