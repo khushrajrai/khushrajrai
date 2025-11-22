@@ -14,42 +14,17 @@
 
 ---
 
-### 💻 Tech Stack
+##  💻 **Tech Stack**
 
-### **💻 Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
-</p>
-
-### **🧠 AI / ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
-
-### **🌐 Full Stack Web Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express" />
-</p>
-
-### **🗄️ Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### **🛠️ DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
-
-### **🚀 Deployment**
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
-</p>
-
-### **🎨 UI/UX & Creative Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,canva" />
-</p>
+| **Category**              | **Skills / Tools**                                                                          |
+| ------------------------- | ------------------------------------------------------------------------------------------- |
+| **💻 Languages**          | <img src="https://skillicons.dev/icons?i=python,cpp" />                                     |
+| **🧠 AI / ML**            | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />               |
+| **🌐 Full Stack Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express" /> |
+| **🗄️ Databases**         | <img src="https://skillicons.dev/icons?i=mysql,mongodb" />                                  |
+| **🛠️ DevOps & Tools**    | <img src="https://skillicons.dev/icons?i=git,github,postman" />                             |
+| **🚀 Deployment**         | <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />                          |
+| **🎨 UI/UX Tools**        | <img src="https://skillicons.dev/icons?i=figma,canva" />                                    |
 
 ---
 
