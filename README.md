@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Khushraj Rai </h1>
 
-<!--
-**khushrajrai/khushrajrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>I'm Khushraj Rai. B.Tech CSE student passionate about AI/ML. Building ML projects, explore deep learning concepts, and constantly upskill through hands-on work.</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+- Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**  
+- Building **ML-driven projects**, experimenting with models, and improving skills through hands-on development  
+- Exploring **Full Stack Web Development** alongside AIML  
+- Constantly learning, building, and contributing 🚀  
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 AI / ML
+- Python • NumPy • Pandas • Scikit-learn  
+- TensorFlow  • OpenCV • Data Preprocessing  
+- Streamlit • Jupyter Notebooks  
+
+### 🌐 Full Stack Web Development  
+- HTML • CSS • JavaScript  
+- React.js • Tailwind CSS  
+- Node.js • Express.js
+
+### 🗄️ Databases
+- MongoDB  
+- SQL  
+
+### 🔧 Tools & Platforms
+- Git • GitHub • VS Code  
+- Kaggle • Postman  
