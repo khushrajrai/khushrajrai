@@ -21,14 +21,14 @@
   <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
-### **🌐 AI/ML **
+### **🧠 AI / ML**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,py" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
 ### **🌐 Full Stack Web Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite,expressjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express" />
 </p>
 
 ### **🗄️ Databases**
@@ -38,7 +38,7 @@
 
 ### **🛠️ DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 ### **🚀 Deployment**
