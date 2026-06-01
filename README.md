@@ -8,7 +8,7 @@
 
 ### 💡 About Me 
 - Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**  
-- Building **ML-driven projects**, experimenting with models, and improving skills through hands-on development  
+- Building **ML-driven projects**, experimenting with models, and improving skills through hands on development  
 - Exploring **Full Stack Web Development** alongside AIML  
 - Constantly learning, building, and contributing 🚀  
 
