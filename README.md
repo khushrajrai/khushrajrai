@@ -19,7 +19,7 @@
 | **Category**              | **Skills / Tools**                                                                          |
 | ------------------------- | ------------------------------------------------------------------------------------------- |
 | **💻 Languages**          | <img src="https://skillicons.dev/icons?i=python,cpp" />                                     |
-| **🧠 AI / ML**            | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,langgraph" />               |
+| **🧠 AI / ML**            | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,langgraph,n8n" />               |
 | **🌐 Full Stack Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express" /> |
 | **🗄️ Databases**         | <img src="https://skillicons.dev/icons?i=mysql,mongodb" />                                  |
 | **🛠️ DevOps & Tools**    | <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vite,npm" />                             |
