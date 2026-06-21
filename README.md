@@ -16,18 +16,18 @@
 
 ## 💻 **Tech Stack**
 
-| **Category**              | **Skills / Tools** |
-|---------------------------|-------------------|
+| **Category** | **Skills / Tools** |
+|---------------|-------------------|
 | **💻 Languages** | <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" /> |
-| **🧠 AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi" /><br>Machine Learning • Deep Learning • Data Preprocessing • Model Evaluation • RAG • LangChain • LangGraph • Agentic AI • GenAI |
+| **🧠 AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi" /><br>LangChain • LangGraph • RAG • Agentic AI • GenAI |
 | **📊 Data Science** | NumPy • Pandas • Scikit-learn |
 | **🌐 Full Stack Web Dev** | <img src="https://skillicons.dev/icons?i=react,flask,fastapi,html,css,js" /> |
 | **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
 | **⚙️ Automation & APIs** | n8n • Playwright • REST APIs |
-| **🛠️ DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" /><br>CI/CD • npm |
+| **🛠️ DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" /><br>CI/CD |
 | **🚀 Deployment** | <img src="https://skillicons.dev/icons?i=vercel,netlify,render" /> |
-| **🎨 UI/UX Tools** | <img src="https://skillicons.dev/icons?i=figma" /><br>Canva |
-| **🧩 Core CS Concepts** | DSA • System Design • AI Automation |
+| **🎨 UI/UX Tools** | <img src="https://skillicons.dev/icons?i=figma" /> Canva |
+| **🧩 Core Concepts** | DSA • System Design • AI Automation |
 
 ---
 
