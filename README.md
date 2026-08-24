@@ -29,7 +29,7 @@ I am a B.Tech CSE student at **VIT Bhopal University** who enjoys turning intere
 
 <p align="center"><sub>AI/ML · RAG · LangChain · LangGraph · NLP · Computer Vision · REST APIs · DSA · OOP · CI/CD</sub></p>
 
-## Selected Projects
+## Featured Projects
 
 | Project | What it does | Built with |
 | --- | --- | --- |
@@ -42,9 +42,8 @@ I am a B.Tech CSE student at **VIT Bhopal University** who enjoys turning intere
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushrajrai&theme=github_dark" alt="Khushraj's GitHub profile analytics" width="95%" />
   <br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushrajrai&theme=github_dark" alt="Khushraj's GitHub statistics" height="180" />
-  <br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushrajrai&theme=github_dark" alt="Khushraj's repository language metrics" height="180" />
+  <a href="https://github.com/khushrajrai"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushrajrai&theme=github_dark" alt="Khushraj's GitHub statistics" width="48%" /></a>
+  <a href="https://github.com/khushrajrai"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushrajrai&theme=github_dark" alt="Khushraj's repository language metrics" width="48%" /></a>
   <br /><br />
   <img src="https://streak-stats.demolab.com?user=khushrajrai&hide_border=true&background=0F172A&ring=FBBF24&fire=FB7185&currStreakLabel=5EEAD4&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Khushraj's GitHub contribution streak" height="180" />
 </div>
@@ -55,24 +54,13 @@ I am a B.Tech CSE student at **VIT Bhopal University** who enjoys turning intere
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushrajrai&bg_color=0F172A&color=CBD5E1&line=14B8A6&point=FBBF24&area=true&hide_border=true" alt="Khushraj's GitHub activity graph" width="95%" />
 </div>
 
-## LeetCode Practice
+## LeetCode Progress
 
-<p>Track my latest problem-solving progress on <a href="https://leetcode.com/u/khushrajrai/">LeetCode</a>. Practice by category:</p>
+<p>Live total questions solved and streak heatmap from <a href="https://leetcode.com/u/khushrajrai/">my LeetCode profile</a>.</p>
 
-<table>
-  <tr>
-    <td align="center"><a href="https://leetcode.com/problemset/?topicSlugs=array"><strong>Arrays</strong></a></td>
-    <td align="center"><a href="https://leetcode.com/problemset/?topicSlugs=string"><strong>Strings</strong></a></td>
-    <td align="center"><a href="https://leetcode.com/problemset/?topicSlugs=linked-list"><strong>Linked Lists</strong></a></td>
-    <td align="center"><a href="https://leetcode.com/problemset/?topicSlugs=tree"><strong>Trees</strong></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://leetcode.com/problemset/?topicSlugs=dynamic-programming"><strong>Dynamic Programming</strong></a></td>
-    <td align="center"><a href="https://leetcode.com/problemset/?topicSlugs=graph"><strong>Graphs</strong></a></td>
-    <td align="center"><a href="https://leetcode.com/problemset/?topicSlugs=sorting"><strong>Sorting</strong></a></td>
-    <td align="center"><a href="https://leetcode.com/problemset/?topicSlugs=binary-search"><strong>Binary Search</strong></a></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/khushrajrai?theme=dark&font=Karma&ext=heatmap" alt="Khushraj's total LeetCode questions solved and streak heatmap" width="95%" />
+</div>
 
 <br />
 
