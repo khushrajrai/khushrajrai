@@ -12,8 +12,6 @@
 
 <br />
 
-## Hello, I'm Khushraj
-
 I am a B.Tech CSE student at **VIT Bhopal University** who enjoys turning interesting problems into useful software. My current focus is the space where **AI systems, automation, and thoughtful product engineering** meet.
 
 - Building with **agentic AI, RAG, computer vision, and NLP**
