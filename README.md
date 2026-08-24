@@ -59,7 +59,11 @@ I am a B.Tech CSE student at **VIT Bhopal University** who enjoys turning intere
 <p>Live total questions solved and streak heatmap from <a href="https://leetcode.com/u/khushrajrai/">my LeetCode profile</a>.</p>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/khushrajrai?theme=dark&font=Karma&ext=heatmap" alt="Khushraj's total LeetCode questions solved and streak heatmap" width="95%" />
+  <img
+    src="https://leetcard.jacoblin.cool/khushrajrai?theme=dark&font=Karma&ext=heatmap"
+    alt="Khushraj's LeetCode streak heatmap"
+    width="95%"
+  />
 </div>
 
 <br />
