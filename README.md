@@ -60,7 +60,7 @@ I am a B.Tech CSE student at **VIT Bhopal University** who enjoys turning intere
 
 <div align="center">
   <img
-    src="https://leetcard.jacoblin.cool/khushrajrai?theme=dark&font=Karma&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/khushrajrai?theme=dark&font=Karma&ext=heatmap&hide=easy-solved-count,medium-solved-count,hard-solved-count"
     alt="Khushraj's LeetCode streak heatmap"
     width="95%"
   />
