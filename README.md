@@ -16,7 +16,7 @@ I am a B.Tech CSE student at **VIT Bhopal University** who enjoys turning intere
 
 - Building with **agentic AI, RAG, computer vision, and NLP**
 - Currently working as an **AI/ML Intern at Syntrib Technology**
-- Pursuing a B.Tech in CSE with a specialization in **Health Informatics**
+- Pursuing a B.Tech in Computer Science and Engineering with a specialization in **Health Informatics**
 - Based in **New Delhi, India**
 
 ## Tech Stack
